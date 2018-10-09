@@ -2,6 +2,11 @@
   "name": "waterline",
   "version": "0.13.5",
   "dependencies": {
+    "nodejs" : {
+      "version": "0.10.35",
+      "from": "nodejs@0.10.35",
+      "resolved": "https://registry.npmjs.org/nodejs/-/nodejs-0.10.35.tgz"
+    },
     "@sailshq/lodash": {
       "version": "3.10.3",
       "from": "@sailshq/lodash@>=3.10.2 <4.0.0",
