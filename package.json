@@ -26,11 +26,6 @@
               "version": "2.83.0",
               "from": "request@>=2.80.0",
               "resolved": "https://registry.npmjs.org/request/-/request-2.83.0.tgz"
-            },
-            "react": {
-              "version": "16.2.0",
-              "from": "react@>=16.0.0",
-              "resolved": "https://registry.npmjs.org/react/-/react-16.2.0.tgz"
             }
           }
         }
