@@ -2,34 +2,7 @@
   "name": "waterline",
   "version": "0.13.5",
   "dependencies": {
-    "nodejs" : {
-      "version": "0.10.35",
-      "from": "nodejs@0.10.35",
-      "resolved": "https://registry.npmjs.org/nodejs/-/nodejs-0.10.35.tgz"
-    },
-    "@sailshq/lodash": {
-      "version": "3.10.3",
-      "from": "@sailshq/lodash@>=3.10.2 <4.0.0",
-      "resolved": "https://registry.npmjs.org/@sailshq/lodash/-/lodash-3.10.3.tgz"
-    },
-    "anchor": {
-      "version": "1.3.0",
-      "from": "anchor@>=1.2.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/anchor/-/anchor-1.3.0.tgz",
-      "dependencies": {
-        "validator": {
-          "version": "5.7.0",
-          "from": "validator@5.7.0",
-          "resolved": "https://registry.npmjs.org/validator/-/validator-5.7.0.tgz",
-          "dependencies": {
-            "request": {
-              "version": "2.83.0",
-              "from": "request@>=2.80.0",
-              "resolved": "https://registry.npmjs.org/request/-/request-2.83.0.tgz"
-            }
-          }
-        }
-      }
-    }
+    "nodejs" : "0.10.35",
+    "anchor": "1.3.0"
   }
 }
