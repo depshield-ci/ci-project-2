@@ -1,8 +1,0 @@
-{
-  "name": "waterline",
-  "version": "0.13.5",
-  "dependencies": {
-    "nodejs" : "0.10.35",
-    "anchor": "1.3.0"
-  }
-}
